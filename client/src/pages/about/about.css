@@ -1,0 +1,30 @@
+
+.aboutTitle {
+    font-size: 30px;
+    text-align: center;
+    margin-top: 70px;
+  }
+  .aboutBody {
+    margin-top: 50px;
+    font-size: 20px;
+    text-align: center;
+  }
+  
+  .titleCard {
+    padding: 10px;
+    border: 10px solid rgb(54, 54, 54);
+    border-radius: 10px;
+    background-color: rgb(255, 230, 160);
+  }
+  
+  .bodyCard {
+    padding-bottom: 100px;
+  }
+  
+  hr {
+    height: 10px;
+    background-color: rgb(255, 236, 131);
+    border: 2px dashed black;
+    border-left: 0px;
+    border-right: 0px;
+  }
